@@ -20,7 +20,7 @@ The program connects to localhost by default.
 - event handling
 
 
-[Demo Video]
-(https://user-images.githubusercontent.com/64929089/127393501-13bd1dc8-a47a-4282-811e-95d0fd8f6f4e.mp4)
+Demo Video:
+https://user-images.githubusercontent.com/64929089/127393501-13bd1dc8-a47a-4282-811e-95d0fd8f6f4e.mp4
 
 [Report.pdf](https://github.com/fadimedurna/Memory_Game/files/6896342/Report.pdf)
